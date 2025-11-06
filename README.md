@@ -82,8 +82,8 @@ Insights & Recommendations:
 Tools:
 | Category                    | Tools Used            |
 | ------------------------| ------------------------- |
-| Data Cleaning and       | Python (pandas, numpy)    |
-| exploration              and Excel                  |
+| Data Exploration        | Excel                     |
+| Data Cleaning           | Python (pandas, numpy)    |
 | Data Storage & Querying | MySQL                     |
 | Visualization           | Power BI                  |
 | Documentation           | Excel, PowerPoint, GitHub |
